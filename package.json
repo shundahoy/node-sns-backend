@@ -1,0 +1,17 @@
+{
+  "name": "node-sns",
+  "version": "1.0.0",
+  "description": "node-sns",
+  "main": "server.js",
+  "scripts": {
+    "dev": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1",
+    "helmet": "^6.0.0",
+    "mongoose": "^6.6.0",
+    "nodemon": "^2.0.19"
+  }
+}
